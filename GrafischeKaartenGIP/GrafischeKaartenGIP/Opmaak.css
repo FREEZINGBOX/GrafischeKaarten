@@ -1,0 +1,164 @@
+﻿body {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: grey;
+    margin: auto;
+}
+
+.InhoudsDIV{
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    background-color:white;
+    text-align:center;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+.AchtergrondLogin {
+    background-color: grey;
+    margin: auto;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.BannerDIV {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height:75px;
+}
+
+.CatalogusDIV {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 845px;
+    background-color: white;
+    text-align: center;
+}
+
+.LoginDIV {
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+    width: 500px;
+    background-color: white;
+    text-align: center;
+    padding-top: 25px; 
+    padding-bottom:25px;
+}
+
+.ToevoegDIV {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    background-color: white;
+    text-align: left;
+    padding-left:20px;
+}
+
+.WinkelmandjeLeegDIV{
+    width:970px;
+    padding:15px;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+    text-align:center;
+}
+
+.WinkelMandjeDIV{
+    padding-top:15px;
+    padding-bottom:15px;
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+    width:1000px;
+}
+
+.WinkelMandjeGegevensDIV{
+    width:970px;
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.WinkelMandjeArtikelDIV {
+    width: 880px;
+    position:relative;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.WinkelMandjePrijsDIV {
+    width: 200px;
+    position: relative;
+    text-align: center;
+    margin-right: 0px;
+    margin-left:680px;
+}
+
+.BestelBevestigingDIV{
+    background-color:white;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    width:970px;
+    padding:15px;
+}
+
+.WinkelmandjePrijzenBreedte{
+    width:95px;
+}
+
+#btnGaWinkelmand{
+    width:100%;
+}
+
+#LoginTable{
+    width:500px;
+}
+
+.LoginTableTD {
+    width: 180px;
+    text-align: right;
+}
+
+#btnAanmelden{
+    width:200px;
+}
+
+#btnCatalogus{
+    width: 200px;
+}
+
+#btnBestellen{
+    width:200px;
+}
+
+#tblKlantGegevens{
+    width:300px;
+}
+
+#tblWinkelmandjeKnoppen{
+    width:1000px;
+    text-align:center;
+}
+
+#tblWinkelmandjePrijzen{
+    width:200px;
+    text-align:right;
+}
+
+#tblToevoegen{
+    width:1000px;
+}
+
+#tblInfoToevoegen{
+    width:400px;
+}
